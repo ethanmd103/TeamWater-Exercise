@@ -1,4 +1,28 @@
+.wrapper{
+    background-color: cornflowerblue;
+    width: 650px;
+    margin-left: 35%;
+    padding-bottom: 5px;
+    box-shadow: black 0 0 15px inset;
+}
+body{
+    margin: 5px;
+    background-image: url(https://images.creativemarket.com/0.1.0/ps/8038898/1820/1166/m1/fpnw/wm1/dwkkujnarrovqjt68tvp5f7nuyluwnsfnevfdt4q6w12bsytvoh5teq3oemyoird-.jpg?1585565460&s=83baa83e6a13b619948fc960a7ff9627);
+    width: 100%;
+    height: 100%;
+    color: white;
+    text-align: center;
+    position: relative;
+}
 img{
-    width: 200px;
-    height: 200px; 
+    width: 400px;
+    height: 400px;
+    box-shadow: black 0 0 10px; 
+}
+.header{
+    text-align: center;
+    padding-top: 5px;
+}
+h1{
+    text-align: center;
 }
